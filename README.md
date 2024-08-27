@@ -20,7 +20,7 @@
 
 ## Код
 
-Вы можете найти код для первой части проекта [здесь](https://github.com/DataM0ney/NBA_Project/blob/main/data_prep.ipynb), для второй части [здесь]([https://github.com/](https://github.com/DataM0ney/NBA_Project/blob/main/predictions.ipynb).
+Вы можете найти код для первой части проекта [здесь](https://github.com/DataM0ney/NBA_Project/blob/main/data_prep.ipynb), для второй части [здесь](https://github.com/DataM0ney/NBA_Project/blob/main/predictions.ipynb).
 
 Обзор файлов:
 
